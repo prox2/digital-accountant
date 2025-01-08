@@ -1,14 +1,20 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "title": "Getting Started",
+    "description": "Learn how to set up your development environment.",
+    "icon": "play-circle-outline",
+    "url": "https://www.youtube.com/watch?v=your-video-id-1"
+  },
+  {
+    "title": "React Native Basics",
+    "description": "Understand the building blocks of React Native.",
+    "icon": "play-circle-outline",
+    "url": "https://www.youtube.com/watch?v=your-video-id-2"
+  },
+  {
+    "title": "Using React Native Paper",
+    "description": "A guide to using Material Design in your app.",
+    "icon": "play-circle-outline",
+    "url": "https://www.youtube.com/watch?v=your-video-id-3"
   }
-}
+]
